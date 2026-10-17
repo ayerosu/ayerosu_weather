@@ -13,12 +13,6 @@ A modern, standalone, lightweight weather and time synchronization resource for 
 - Multi-Language Support
 - Easily Customizable
 - Modern ox_lib Context Menu
-
-- **Bilingual Command Support:**
-  - `/weather [type]`
-  - `/time [hour] [minute]`
-  - `/blackout`
-  - `/freezetime`
 - **Drop-in `qb-weathersync` Compatibility:** Completely backward-compatible with all scripts calling `qb-weathersync` exports and server events.
 
 ---
